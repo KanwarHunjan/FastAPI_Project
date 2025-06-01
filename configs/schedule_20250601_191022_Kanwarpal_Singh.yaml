@@ -1,0 +1,13 @@
+metadata:
+  submitted_by: kanwarpal.singh@cars24.com
+  submitted_at: '2025-06-01T19:10:22.748190'
+  user_name: Kanwarpal Singh
+  business_unit: mkt_bi
+configuration:
+  source:
+    database: cspl_mkt_db
+  target:
+    table: test_table
+  schedule: 0 9 * * *
+query: TEST
+description: TEST
