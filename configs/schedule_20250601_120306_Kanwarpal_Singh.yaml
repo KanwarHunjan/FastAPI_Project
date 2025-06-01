@@ -1,0 +1,6 @@
+email: kanwarpal.singh@cars24.com
+name: Kanwarpal Singh
+business_unit: AUS
+sql_query: -- Test 2
+schedule: 0 8 * * *
+description: Test 2
