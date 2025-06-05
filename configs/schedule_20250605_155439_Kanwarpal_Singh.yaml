@@ -1,0 +1,11 @@
+metadata:
+  submitted_by: kanwarpal.singh@cars24.com
+  submitted_at: '2025-06-05T15:54:39.554780'
+  user_name: Kanwarpal Singh
+  business_unit: mkt_bi
+configuration:
+  database: cspl_mkt_db
+  table: test_table
+  schedule: 0 9 * * *
+query: select current_timestamp as time;
+description: This is a test
